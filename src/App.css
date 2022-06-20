@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app-header{
+  width: 100%;
+  height: 20vh;
+  background-color: rgb(241, 157, 55);
+}
+.app-header h1{
+ margin: 0 30px;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 700;
+  text-shadow: rgb(158, 142, 122);
+}
+.done{
+  background-color: rgb(240, 178, 231);
+}
+.undone{
+  background-color: rgb(241, 203, 153);
+}
+.footer{
+  width: 100%;
+  height: 20vh;
+  background-color: rgb(241, 157, 55);
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+   padding-top: 20px;
+   display: flex;
+   justify-content: space-around;    
+}
+
+
